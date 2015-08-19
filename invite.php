@@ -2,11 +2,11 @@
 	ini_set("max_execution_time",120);
 
 	//Database connection info
-	$db_hostname = "";	//Hostname
+	$db_hostname = "sql5.freemysqlhosting.net";	//Hostname
 	$db_port = 3306;		//Port
-	$db_username = "";		//Username
-	$db_password = "";	//Password
-	$db_database = "";	//Database
+	$db_username = "sql587386";		//Username
+	$db_password = "zH3%zT5%";	//Password
+	$db_database = "sql587386";	//Database
 
 	//Steam info
 	$account_invites = 100;		//Number of invites per account per hour -- DO NOT CHANGE IT
